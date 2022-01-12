@@ -55,8 +55,7 @@ h1{
 
 #pro-wdd{
     border-left: 7px solid;
-    border-image: linear-gradient(rgb(100, 107, 197), rgb(196, 67, 157));
-    border-image-slice: 1;
+    border-image: red;
 }
 
 footer {
@@ -103,4 +102,8 @@ p{
     background-image: url(images/illustrators/illustrator-3.png);
     background-size: 50%;
     background-repeat: no-repeat;
+}
+.address1{
+    padding: 40px;
+    background-color: tan;
 }
