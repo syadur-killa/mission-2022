@@ -60,7 +60,7 @@ h1{
 }
 
 footer {
-    display: flex;
+    text-align: center;
     justify-content: center;
     padding: 5px;
     background-color: #45a1ff;
